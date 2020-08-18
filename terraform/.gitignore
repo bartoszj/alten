@@ -1,0 +1,9 @@
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+
+# Mac
+.DS_Store
+
+credentials.json
